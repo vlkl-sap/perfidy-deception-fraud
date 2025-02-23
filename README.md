@@ -11,7 +11,7 @@ In the second scenario, an attacker can leverage a "confused deputy" to defraud 
 ## Repository Contents
 
 This repository contains:
-* an example proof-of-concept PDF
+* an example [proof-of-concept PDF](perfidy-deception-fraud.pdf)
 * a script to generate such PDFs (using [PDF-LIB.js](https://pdf-lib.js.org/))
 
 ## How it Works
